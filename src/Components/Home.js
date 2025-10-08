@@ -29,7 +29,7 @@ const Home = () => {
         <div className='AboutText'>
           <h1 className='AboutTextHeading'>Brief <b>introduction</b></h1>
           <p>
-          I am a Front-end developer with over 2 years of experience developing eﬀective and interactive
+          I am a <b>Full Stack Developer</b> with over 3.8 years of experience developing eﬀective and interactive
           high-performance web applications. I am passionate about transforming raw ideas into impactful websites and products that make a difference. I thrive on challenges that push my skills as a developer and enjoy creating work that I can take pride in.<br /><br />
           I am currently honing my skills in <b>MERN stack technology </b> and actively working on real-world projects using <b>Next.js</b>, <b>Typescript</b>. <br /><br />
           Beyond coding, I enjoy a good cup of <b>coffee</b> <CiCoffeeCup style={{scale:"1.5", rotate:"15deg"}}/>   
