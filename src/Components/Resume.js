@@ -20,8 +20,8 @@ const Resume = () => {
     <div className="ResumePage">
       <Document file={pdf} className="resumeview">
         <Page pageNumber={1} scale={wid < 700 ? (wid > 475 ? 0.7 : 0.5) : 1} />
+        <p className="resumeInstruction">Download the CV for complete view. </p>
       </Document>
-
       <a href={pdf} target="_blank" download="Usama's Resume">
         <button className="downloadCV" type="button">
           <h3>
